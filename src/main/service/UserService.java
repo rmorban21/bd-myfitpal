@@ -44,5 +44,4 @@ public class UserService {
     public List<String> getUserPreferences(String userId) {
         return userRepository.getUserPreferences(userId);
     }
-
 }
