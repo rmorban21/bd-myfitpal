@@ -1,16 +1,24 @@
 package main.models;
 
+import lombok.Data;
+
 import java.util.ArrayList;
 import java.util.List;
 
+@Data
+@DynamoDBTable(tableName = "users")
+
 public class User {
+    //TODO add fitness goal directly here
     private String userId;
     private String username;
+    //TODO check how to secure password
     private String password;
     private String email;
     private FitnessGoal fitnessGoal;
     private int availability;
     private List<String> preferences;
+    //TODO add experience level specifically
     private ExperienceLevel expLevel;
 
     public String getUserId() {
@@ -76,4 +84,5 @@ public class User {
     public void setExpLevel(ExperienceLevel expLevel) {
         this.expLevel = expLevel;
     }
+
 }
