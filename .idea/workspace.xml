@@ -6,8 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="971c480c-7c4a-4d94-90c3-9dafea68d54a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MyFitPalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MyFitPalApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/service/UserService.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UserServiceTest.java" afterDir="false" />
+>>>>>>> 4ed80fdc3cb4b233a9ac164da34324df12a3674d
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +39,12 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="MyFitPal" type="f1a62948:ProjectNode" />
+                <item name="bd-myfitpal" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bd-myfitpal" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -76,7 +87,13 @@
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/mamag/BloomTech/Unit5/Project/bd-myfitpal",
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/yana/BloomTech/fitnessProject/bd-myfitpal",
+>>>>>>> 4ed80fdc3cb4b233a9ac164da34324df12a3674d
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -98,7 +115,7 @@
       <recent name="C:\Users\mamag\BloomTech\Unit5\Project\MyFitPal\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MyFitPal [dependencies]">
+  <component name="RunManager" selected="Application.MyFitPalApplication">
     <configuration name="MyFitPalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.org.example.MyFitPalApplication" />
       <module name="MyFitPal.main" />
@@ -131,6 +148,7 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <recent_temporary>
